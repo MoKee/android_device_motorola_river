@@ -1,4 +1,8 @@
 [
+  {
+    "repository": "android_vendor_motorola_river",
+    "target_path": "vendor/motorola/river"
+  },
  {
    "repository": "android_device_motorola_sdm632-common",
    "target_path": "device/motorola/sdm632-common"
